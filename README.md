@@ -12,7 +12,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e0ece041-34fc-4076-b266-595b421e528d.png" alt="project-screenshot" width="1200" height="630/">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e0ece041-34fc-4076-b266-595b421e528d.png" alt="project-screenshot" width="600" height="315/">
 
   
   
