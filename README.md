@@ -4,7 +4,7 @@
 
 <p id="description">3D Low Poly FPS Zombie style game that will (hopefully) be released on steam.</p>
 
-<p align="center"><img src="![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white)" alt="shields"><img src="![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white)" alt="shields"><img src="![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white)" alt="shields"><img src="![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/Thanks_For-Dropping_By-blue" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
@@ -12,7 +12,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e0ece041-34fc-4076-b266-595b421e528d.png" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e0ece041-34fc-4076-b266-595b421e528d.png" alt="project-screenshot" width="1200" height="630/">
 
   
   
